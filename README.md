@@ -1,6 +1,6 @@
 # Paella Player für die BHT Berlin
 
-## Paella mit der letzten verion von Dash: Dash 2.6.7: https://github.com/Dash-Industry-Forum/dash.js/releases/tag/v2.6.6
+## Paella mit der letzten version von Dash: Dash 2.6.6: https://github.com/Dash-Industry-Forum/dash.js/releases/tag/v2.6.6
 
 Dieses Projekt umfasst den gesamten Player. Es ist ein Fork von dem [Paella Player](https://github.com/polimediaupv/paella).
 
